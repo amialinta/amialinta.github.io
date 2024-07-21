@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://amialinta.github.io/sitemap
+Sitemap: https://amialinta.github.io/app/sitemap
+Sitemap: https://amialinta.github.io/assets/sitemap
+Sitemap: https://amialinta.github.io/css/sitemap
+Sitemap: https://amialinta.github.io/includes/sitemap
+Sitemap: https://amialinta.github.io/item/sitemap
+Sitemap: https://amialinta.github.io/src/sitemap
